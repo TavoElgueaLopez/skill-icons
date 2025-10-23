@@ -11,6 +11,6 @@
 	"devDependencies": {
 		"@cloudflare/wrangler": "^1.19.8",
 		"miniflare": "^2.3.0",
-		"prettier": "^2.5.1"
+		"prettier": "^3.6.2"
 	}
 }
